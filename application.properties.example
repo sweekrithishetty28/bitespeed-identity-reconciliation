@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/bitespeeddb
+spring.datasource.username=root
+spring.datasource.password=YOUR_PASSWORD_HERE
